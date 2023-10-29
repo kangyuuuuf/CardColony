@@ -1,5 +1,7 @@
 # CardColony
 
+This is a replica of a group project, intended solely for demonstration purposes. Kangyu Feng has created this replica version to showcase the work, demonstrate the project's features and functionality when necessary. 
+
 #### Group Members:
 
 | Name         | NetId    |
